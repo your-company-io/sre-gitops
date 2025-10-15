@@ -1,0 +1,2 @@
+# sre-gitops
+GitOps repository
